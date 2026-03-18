@@ -1,0 +1,14 @@
+[
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "id",
+    "file": "src/commands/id.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  }
+]
